@@ -15,22 +15,25 @@ Have fun!
 3. [Certifications](#certifications)
 
 
-## Projects (Under Construction)
+## Projects
 ***
 ### Dr. Opinion
-<comming soon>
+``Comming Soon``
   
 ### Laguro.com
-<comming soon>
+``Comming soon``
 
 ### YelpSpy
-<comming soon>
+``Comming Soon``
 
 ### Apache Marvin AI Platform
+``Under Construction``
 
 Marvin is an open source project that focuses on empowering data science teams to deliver complex solutions supported by a high-scale, low-latency, language agnostic and standardized architecture platform, while simplifying the process of exploration and modeling.
 
 ### Booska
+``Under Construction``
+
 Site to search for products on the web.
 
 *Role*: **Architect, technical leader and developer**
@@ -42,6 +45,8 @@ The project is still in development but the first beta version was already avail
 *keywords*: **natural language processing, computer vision, play framework, cassandra, python, javascript, java, high availability, python, elastic search**
 
 ### Scanboo
+``Under Construction``
+
 Platform for crawler, structuring and match (visual and textual) of products.
 
 *Role*: **Researcher, architect, technical leader and developer**
@@ -53,6 +58,8 @@ In this project, several different architectures have been proven, many of the r
 *keywords*: **python, c language, java, rails, ruby, web crawler, natural language processing, computer vision, cassandra, postgree, django, celery, s3, elastic search, svm.**
 
 ### Boomage
+``Under Construction``
+
 Technology to recognise products from real photos.
 
 *Role*: **Researcher, architect, technical leader and developer**
@@ -63,6 +70,8 @@ The product was engineered and the first stable version released and sold in les
 *keywords*: **spark, graphlab, mahout, hbase, Cassandra, computer vision, caffe, python, aws services, gpu, c language, openmpi, opencv, OpenCL, distributed KNN.**
 
 ### Julia Architect
+``Under Construction``
+
 Intelligent system for recommendation of architectural solutions
 
 *Role*: **Researcher and developer**
@@ -73,6 +82,8 @@ non-functional requirements and returns suggestions of architectural solutions.
 *Keywords*: **Case-based reasoning; Architectural tactics; Non-functional requirements; Quality attributes; Reuse of architectural decisions.**
 
 ### Oikos Hub Platform
+``Under Construction``
+
 Platform for distributing digital books (epub, pdf) comprises a DRM ecosystem (encrypted content distributor and mobile client for reading).
 
 *Role*: **Researcher, architect, technical leader and developer**
