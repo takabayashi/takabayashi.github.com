@@ -2,19 +2,20 @@
 **Job Position:** *Software Engineering Manager & Principal Software Architect*<br>
 **Location:** *San Francisco Bay Area - CA*
 
-I have created this page to show the most important projects I had the opportunity to work with, besides my technical certifications and some publications.
-
-This document only is a public extension of my [resume](https://linkedin.com/takabayashi).
-If you need more information about me, send me an email at <daniel.takabayashi@gmail.com>.
+I have created this page to show the most important projects I had the opportunity to work with, besides my technical certifications and some publications. If you need more information about me, send me an email at <daniel.takabayashi@gmail.com>.
 
 Have fun!
 
+
 ## Summary
+***
 1. [Projects](#projects)
 2. [Publications](#publications)
 3. [Certifications](#certifications)
 
-## [Projects](#projects)
+
+## Projects
+***
 ### Dr. Opinion
 
 ### Laguro.com
@@ -31,11 +32,11 @@ Have fun!
 
 ### Arche2
 
-***
 ### Oikos Hub Platform
 
 
-## [Publications](#publications)
+## Publications
+***
 ### [Marvin - From exploratory models to production](https://raw.githubusercontent.com/marvin-ai/marvin-paper/master/from-exploratory-models-to-productions/marvin_paper.pdf)
 *October 2017* **Papis.io**
 
@@ -53,42 +54,42 @@ The amount of images used to train a classifier has a great impact in the algori
 
 
 ## Certifications
+***
+***Java Enterprise Edition 5 Enterprise Architect Certified Master (Part 1)***<br>
+*July 2013* - **Oracle**
 
-### Java Enterprise Edition 5 Enterprise Architect Certified Master (Part 1)
-July 2013 - Oracle
-
-### IBM Certified System Administrator - WebSphere Application Server Network Deployment V8.0
-March 2013 - IBM
+***IBM Certified System Administrator - WebSphere Application Server Network Deployment V8.0***<br>
+*March 2013* - **IBM**
 
 ### IBM Certified Administrator for SOA Solutions - WebSphere Process Server V7.0
-March 2012 - IBM
+*March 2012* **IBM**
 
 ### IBM Certified Deployment Professional - WebSphere Process Server V7.0
-March 2012 - IBM
+*March 2012* **IBM**
 
 ### IBM Certified SOA Solution Designer
-February 2012 - IBM
+*February 2012* **IBM**
 
 ### IBM Certified System Administrator - Connections 3.0
-June 2011 - IBM
+*June 2011* **IBM**
 
 ### IBM Certified System Administrator - WebSphere Application Server Network Deployment V7.0
-June 2011 - IBM
+*June 2011* **IBM**
 
 ### IBM Certified Application Developer - Rational Application Developer v7
-January 2010 - IBM
+*January 2010* **IBM**
 
 ### IBM Certified SOA Associate (01/2010)
-January 2010 - IBM
+*January 2010* **IBM**
 
 ### IBM Certified Associate Developer - WebSphere Studio, V5.0
-November 2006 - IBM
+*November 2006* **IBM**
 
 ### SCWCD - Sun Certified Web Component Developer for the Java 2 Platform, Enterprise Edition 1.4
-May 2006 - Sun Microsystems
+*May 2006* **Sun Microsystems**
 
 ### SCJA - Sun Certified Associate for the Java 2 Platform, Standard Edition, Version 1.0
-June 2005 - Sun Microsystems
+*June 2005* **Sun Microsystems**
 
 ### SCJP - Sun Certified Programmer for the Java 2 Plataform 1.4
-January 2005 - Sun Microsystems
+*January 2005* **Sun Microsystems**
