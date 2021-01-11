@@ -25,16 +25,60 @@ Have fun!
 
 ### Apache Marvin AI Platform
 
+Marvin is an open source project that focuses on empowering data science teams to deliver complex solutions supported by a high-scale, low-latency, language agnostic and standardized architecture platform, while simplifying the process of exploration and modeling.
+
 ### Booska
+Site to search for products on the web.
+
+*Role*: **Architect, technical leader and developer**
+
+Innovative project because it compares the price of other seekers (Eg. Buscapé and zoom) as well as being independent agreements with e-commerce, because all information is obtained from the web, from spiders programmed for this. The biggest challenge was to structure all the information obtained from the web.
+
+The project is still in development but the first beta version was already available online.
+
+*keywords*: **natural language processing, computer vision, play framework, cassandra, python, javascript, java, high availability, python, elastic search**
 
 ### Scanboo
+Platform for crawler, structuring and match (visual and textual) of products.
+
+*Role*: **Researcher, architect, technical leader and developer**
+
+First SaS platform in Latin America that allows the uptake of e-commerces data over the Internet to preprocessing and classification, aimed at monitoring of price positions and deduplication products on a scale from semi-autonomously. This project has given rise to two: Boomage and Booska.
+After nearly one year of scientific research, the biggest challenge was to overcome the scale in various fields (eg. Image processing, natural language processing, visual configuration of intelligent crawlers) with time constraints, besides the difficulty of gathering the skills needed to form the ideal team to make the product.
+In this project, several different architectures have been proven, many of the results caused frustration in the team, but at the end of 6-month project and a team of nearly 20 people (researchers, data scientists and programmers) the second beta version of the platform launched .
+
+*keywords*: **python, c language, java, rails, ruby, web crawler, natural language processing, computer vision, cassandra, postgree, django, celery, s3, elastic search, svm.**
 
 ### Boomage
+Technology to recognise products from real photos.
 
-### Arche2
+*Role*: **Researcher, architect, technical leader and developer**
+
+Innovative project that uses deep learning applied to computer vision to make it possible to search visually similar products on the basis of e-commerces.
+The product was engineered and the first stable version released and sold in less than 4 months. The biggest challenge was working with machine learning in scale (millions of classified and indexed images) to meet an online application (5s response time).
+
+*keywords*: **spark, graphlab, mahout, hbase, Cassandra, computer vision, caffe, python, aws services, gpu, c language, openmpi, opencv, OpenCL, distributed KNN.**
+
+### Julia Architect
+Intelligent system for recommendation of architectural solutions
+
+*Role*: **Researcher and developer**
+
+Julia Architect is a tool that, using AI techniques, is designed to assist software architects in architectural design decisions, reusing past solutions for today's problems. Receives as input
+non-functional requirements and returns suggestions of architectural solutions.
+
+*Keywords*: **Case-based reasoning; Architectural tactics; Non-functional requirements; Quality attributes; Reuse of architectural decisions.**
 
 ### Oikos Hub Platform
+Platform for distributing digital books (epub, pdf) comprises a DRM ecosystem (encrypted content distributor and mobile client for reading).
 
+*Role*: **Researcher, architect, technical leader and developer**
+
+Innovative project because it is an economical alternative to Apple and Adobe content distribution systems. The main objective was to provide small publishers the distribution of secure content in an economically viable way.
+
+The beta version was created in just six months with a team of developers micromanagement. The challenge was to launch the beta in production with a minimum group of technicians without the proper knowledge in record time. The project was a success but was canceled for financial problems.
+
+*keywords*: **liferay, ios, android, phonegap, encryption, drm, java, javascript, objective-c, aws.**
 
 ## Publications
 ***
