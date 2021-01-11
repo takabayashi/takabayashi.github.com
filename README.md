@@ -62,35 +62,35 @@ The amount of images used to train a classifier has a great impact in the algori
 ***IBM Certified System Administrator - WebSphere Application Server Network Deployment V8.0***<br>
 *March 2013* - **IBM**
 
-### IBM Certified Administrator for SOA Solutions - WebSphere Process Server V7.0
-*March 2012* **IBM**
+***IBM Certified Administrator for SOA Solutions - WebSphere Process Server V7.0***<br>
+*March 2012* - **IBM**
 
-### IBM Certified Deployment Professional - WebSphere Process Server V7.0
-*March 2012* **IBM**
+***IBM Certified Deployment Professional - WebSphere Process Server V7.0***<br>
+*March 2012* - **IBM**
 
-### IBM Certified SOA Solution Designer
-*February 2012* **IBM**
+***IBM Certified SOA Solution Designer***<br>
+*February 2012* - **IBM**
 
-### IBM Certified System Administrator - Connections 3.0
-*June 2011* **IBM**
+***IBM Certified System Administrator - Connections 3.0***<br>
+*June 2011* - **IBM**
 
-### IBM Certified System Administrator - WebSphere Application Server Network Deployment V7.0
-*June 2011* **IBM**
+***IBM Certified System Administrator - WebSphere Application Server Network Deployment V7.0***<br>
+*June 2011* - **IBM**
 
-### IBM Certified Application Developer - Rational Application Developer v7
-*January 2010* **IBM**
+***IBM Certified Application Developer - Rational Application Developer v7***<br>
+*January 2010* - **IBM**
 
-### IBM Certified SOA Associate (01/2010)
-*January 2010* **IBM**
+***IBM Certified SOA Associate (01/2010)***<br>
+*January 2010* - **IBM**
 
-### IBM Certified Associate Developer - WebSphere Studio, V5.0
-*November 2006* **IBM**
+***IBM Certified Associate Developer - WebSphere Studio, V5.0***<br>
+*November 2006* - **IBM**
 
-### SCWCD - Sun Certified Web Component Developer for the Java 2 Platform, Enterprise Edition 1.4
+***SCWCD - Sun Certified Web Component Developer for the Java 2 Platform, Enterprise Edition 1.4***<br>
 *May 2006* **Sun Microsystems**
 
-### SCJA - Sun Certified Associate for the Java 2 Platform, Standard Edition, Version 1.0
+***SCJA - Sun Certified Associate for the Java 2 Platform, Standard Edition, Version 1.0***<br>
 *June 2005* **Sun Microsystems**
 
-### SCJP - Sun Certified Programmer for the Java 2 Plataform 1.4
+***SCJP - Sun Certified Programmer for the Java 2 Plataform 1.4***<br>
 *January 2005* **Sun Microsystems**
