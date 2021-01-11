@@ -1,4 +1,4 @@
-# Daniel Takabayashi (Under Construction)
+# Daniel Takabayashi
 *Job Position:* ***Software Engineering Manager & Principal Software Architect***<br>
 *Location:* ***San Francisco Bay Area - CA***
 
@@ -15,13 +15,16 @@ Have fun!
 3. [Certifications](#certifications)
 
 
-## Projects
+## Projects (Under Construction)
 ***
 ### Dr. Opinion
-
+<comming soon>
+  
 ### Laguro.com
+<comming soon>
 
 ### YelpSpy
+<comming soon>
 
 ### Apache Marvin AI Platform
 
