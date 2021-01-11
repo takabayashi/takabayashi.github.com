@@ -1,6 +1,7 @@
 # Daniel Takabayashi (Under Construction)
-**Job Position:** *Software Engineering Manager & Principal Software Architect*<br>
-**Location:** *San Francisco Bay Area - CA*
+*Job Position:* ***Software Engineering Manager & Principal Software Architect***<br>
+*Location:* ***San Francisco Bay Area - CA***
+
 
 I have created this page to show the most important projects I had the opportunity to work with, besides my technical certifications and some publications. If you need more information about me, send me an email at <daniel.takabayashi@gmail.com>.
 
